@@ -16,7 +16,8 @@
   "author": "eltonnobrega",
   "license": "MIT",
   "keywords": [
-    "cordova-android",
+    "admob-plus-cordova",
+	"cordova-android",
     "cordova-ios",
     "cordova",
     "plugin",

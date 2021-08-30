@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<plugin id="admob-plus-cordova " version="1.0.0"
+<plugin id="cordova_admob_mediation_unityads" version="1.0.0"
     xmlns="http://apache.org/cordova/ns/plugins/1.0"
     xmlns:android="http://schemas.android.com/apk/res/android">
 
-    <name>admob-plus-cordova </name>
+    <name>cordova_admob_mediation_unityads</name>
     <description>Cordova AdMob Mediation Plugin for Unity Ads</description>
 
     <engines>
