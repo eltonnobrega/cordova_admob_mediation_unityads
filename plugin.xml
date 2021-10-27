@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<plugin id="cordova_admob_mediation_unityads" version="1.0.0"
+<plugin id="cordova_admob_mediation_unityads" version="1.0.1"
     xmlns="http://apache.org/cordova/ns/plugins/1.0"
     xmlns:android="http://schemas.android.com/apk/res/android">
 
@@ -12,10 +12,6 @@
 
     <platform name="android">
 		<framework src="src/android/plugin.gradle" custom="true" type="gradleReference"/>
-
-        <!-- Prevents compilation error: https://developer.android.com/studio/build/multidex.html -->
-        <!-- when add additional mediation plugins -->
-        <dependency id="cordova-plugin-multidex" />
     </platform>
 
     <platform name="ios">
